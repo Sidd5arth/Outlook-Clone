@@ -1,9 +1,9 @@
 #Outlook clone
 
-### Using React and Redux
-### Developed in 6hr as an assignment.
+# Using React and Redux
+# Developed in 6hr as an assignment.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
